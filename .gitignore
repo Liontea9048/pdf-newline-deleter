@@ -1,4 +1,7 @@
-./line_joiner_gui.exe
-./line_joiner_gui.spec
-./dist
-./build
+# Build artifacts
+build/
+dist/
+*.spec
+*.exe
+*.pyc
+__pycache__/
