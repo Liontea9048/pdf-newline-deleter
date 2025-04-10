@@ -20,10 +20,11 @@ Designed especially for cleaning up line breaks from PDFs and other text sources
 3. Paste it anywhere!
 
 ### ✍ Manual Mode
-1. Click `AUTO MODE 🔄` button to switch
-2. Paste into the upper box
-3. Press `📋 Paste & Copy` to clean it and copy to clipboard
-4. Cleaned result appears in the lower box
+1. Click `AUTO MODE 🔄` button to switch to `Manual Mode`
+2. Copy any multiline text (e.g. from a PDF)
+3. Paste into the upper box (or skip this step and go to the 4 directly)
+4. Press `📋 Paste & Copy` to clean it and copy to clipboard
+5. Cleaned result appears in the lower box
 
 ### 🌗 Theme
 - Use the "Dark Mode 🌙" or "Light Mode ☀️" button to switch themes
